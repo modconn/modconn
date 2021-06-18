@@ -1,7 +1,7 @@
 # modconn
 **Modbus master stack "modconn" is a multi-threaded library that incorporates the functionalities of Modbus protocol. The multi-threaded library comes in form of a library (.so) on Linux platform.
 Modbus master stack "modconn" is implemented in ‘C' language’ on Linux platform.
-It supports 1. Modbus Master TCP, 2. Modbus Master RTU, 3. Basic features, 4. Advance features like multi-read and multi-write**
+It supports 1. Modbus Master TCP, 2. Modbus Master RTU, 3. Basic features, 4. Advance features like multi-read and write**
 
 ## Building modconn Stack on Linux Platform:
 ### This explains how to build the stack.
